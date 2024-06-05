@@ -46,4 +46,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Gx1n&show_icons=true&count_private=true" alt="Gx1n" />
-<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
+![](https://raw.githubusercontent.com/Gx1n/Gx1n/output/github-contribution-grid-snake.svg)
