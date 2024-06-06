@@ -7,7 +7,7 @@
 <ul>
 <li>🔭 I have recently been working on <strong>industrial vision defect detection</strong>.
 <li>🧐 Learning about <strong>CV</strong>, <strong>NLP</strong>, <strong>Unsupervised Defect Detection</strong>, and a bit of <strong>large models</strong>.</li>
-<li>👨‍💻 The <strong>algorithm tools</strong> I have developed are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
+<li>👨‍💻 The <strong>algorithm tools</strong> I have developed are available on <a href="https://github.com/Gx1n">Github</a>.</li>
 <li>📝 The implementation process of some projects will be documented on <a href="https://blog.csdn.net/weixin_51925771">my csdn</a>.</li>
 <li>💬 Ping me about <strong>15841132876@163.com</strong>.</li>
 </ul>
